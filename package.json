@@ -1,0 +1,26 @@
+{
+  "name": "node-ssl-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./bin/sslwrapper"
+  },
+  "bin": {
+    "sslwrapper": "./bin/sslwrapper"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adambrunner/node-ssl-wrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adambrunner/node-ssl-wrapper/issues"
+  },
+  "homepage": "https://github.com/adambrunner/node-ssl-wrapper#readme",
+  "dependencies": {
+    "http-proxy": "1.13.2",
+    "yargs": "^4.2.0"
+  }
+}
