@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/adambrunner/node-ssl-wrapper.git"
   },
-  "author": "LiuQing",
+  "author": "LQ",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/adambrunner/node-ssl-wrapper/issues"
