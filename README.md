@@ -4,7 +4,7 @@ To run, try from command line:
 
 ```
 npm start -- --key path/to/cert.key --cert path/to/cert.crt --target 'http://localhost:9100' --port 9143
-```
+``
 
 or
 
